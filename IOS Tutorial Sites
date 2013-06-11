@@ -8,3 +8,6 @@
 
 5.UICollectionView
 http://www.onevcat.com/2012/06/introducing-collection-views/
+
+5.Singletons, AppDelegates and top-level data.
+http://www.cocoawithlove.com/2008/11/singletons-appdelegates-and-top-level.html
