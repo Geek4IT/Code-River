@@ -1,2 +1,2 @@
-1.Learnning VIM by an interesting way.
+1.Learnning VIM by an interactive way.
 http://www.openvim.com/tutorial.html
